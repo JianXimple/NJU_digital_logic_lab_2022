@@ -1,0 +1,74 @@
+|lab6
+KEY[0] => KEY[0].IN1
+KEY[1] => ~NO_FANOUT~
+KEY[2] => ~NO_FANOUT~
+KEY[3] => ~NO_FANOUT~
+HEX0[0] << random_num_generator:rng.port2
+HEX0[1] << random_num_generator:rng.port2
+HEX0[2] << random_num_generator:rng.port2
+HEX0[3] << random_num_generator:rng.port2
+HEX0[4] << random_num_generator:rng.port2
+HEX0[5] << random_num_generator:rng.port2
+HEX0[6] << random_num_generator:rng.port2
+HEX1[0] << random_num_generator:rng.port1
+HEX1[1] << random_num_generator:rng.port1
+HEX1[2] << random_num_generator:rng.port1
+HEX1[3] << random_num_generator:rng.port1
+HEX1[4] << random_num_generator:rng.port1
+HEX1[5] << random_num_generator:rng.port1
+HEX1[6] << random_num_generator:rng.port1
+HEX2[0] << <GND>
+HEX2[1] << <GND>
+HEX2[2] << <GND>
+HEX2[3] << <GND>
+HEX2[4] << <GND>
+HEX2[5] << <GND>
+HEX2[6] << <GND>
+HEX3[0] << <GND>
+HEX3[1] << <GND>
+HEX3[2] << <GND>
+HEX3[3] << <GND>
+HEX3[4] << <GND>
+HEX3[5] << <GND>
+HEX3[6] << <GND>
+HEX4[0] << <GND>
+HEX4[1] << <GND>
+HEX4[2] << <GND>
+HEX4[3] << <GND>
+HEX4[4] << <GND>
+HEX4[5] << <GND>
+HEX4[6] << <GND>
+HEX5[0] << <GND>
+HEX5[1] << <GND>
+HEX5[2] << <GND>
+HEX5[3] << <GND>
+HEX5[4] << <GND>
+HEX5[5] << <GND>
+HEX5[6] << <GND>
+
+
+|lab6|random_num_generator:rng
+clk => random_num[0].CLK
+clk => random_num[1].CLK
+clk => random_num[2].CLK
+clk => random_num[3].CLK
+clk => random_num[4].CLK
+clk => random_num[5].CLK
+clk => random_num[6].CLK
+clk => random_num[7].CLK
+output_high[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+output_high[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+output_high[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+output_high[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+output_high[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+output_high[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+output_high[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+output_low[0] <= WideOr13.DB_MAX_OUTPUT_PORT_TYPE
+output_low[1] <= WideOr12.DB_MAX_OUTPUT_PORT_TYPE
+output_low[2] <= WideOr11.DB_MAX_OUTPUT_PORT_TYPE
+output_low[3] <= WideOr10.DB_MAX_OUTPUT_PORT_TYPE
+output_low[4] <= WideOr9.DB_MAX_OUTPUT_PORT_TYPE
+output_low[5] <= WideOr8.DB_MAX_OUTPUT_PORT_TYPE
+output_low[6] <= WideOr7.DB_MAX_OUTPUT_PORT_TYPE
+
+

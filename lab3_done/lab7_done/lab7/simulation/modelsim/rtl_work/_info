@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/My_design/lab7/simulation/modelsim
+vall_lights_out
+Z1 !s110 1650468867
+!i10b 1
+!s100 iRAKJTb;H28U31kM2o]5Q3
+IA8e5]IWkbcTZ_CBL4LV@i0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1650468844
+8D:/My_design/lab7/all_lights_out.v
+FD:/My_design/lab7/all_lights_out.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1650468867.000000
+!s107 D:/My_design/lab7/all_lights_out.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/all_lights_out.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/My_design/lab7
+Z7 tCvgOpt 0
+vkey_to_ascii
+R1
+!i10b 1
+!s100 m3`;SHDXIlPIT8_G>Y]L43
+IFCnhUgoUXMHDinLkg6^Fn2
+R2
+R0
+w1650468776
+8D:/My_design/lab7/key_to_ascii.v
+FD:/My_design/lab7/key_to_ascii.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/key_to_ascii.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/key_to_ascii.v|
+!i113 1
+R5
+R6
+R7
+vlab7
+R1
+!i10b 1
+!s100 ajQ=HVoRSESn8S:]U_f642
+Il[D3UTng;3C04JM4_oX>61
+R2
+R0
+w1650468750
+8D:/My_design/lab7/lab7.v
+FD:/My_design/lab7/lab7.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/lab7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/lab7.v|
+!i113 1
+R5
+R6
+R7
+vlab7_vlg_tst
+!s110 1650468868
+!i10b 1
+!s100 Y0MC9QVo6Qi0I;<4hQSFl1
+IDDEUXnaKF1@E2diC7:M>51
+R2
+R0
+w1650462324
+8D:/My_design/lab7/simulation/modelsim/lab7.vt
+FD:/My_design/lab7/simulation/modelsim/lab7.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/simulation/modelsim/lab7.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7/simulation/modelsim|D:/My_design/lab7/simulation/modelsim/lab7.vt|
+!i113 1
+R5
+Z8 !s92 -vlog01compat -work work +incdir+D:/My_design/lab7/simulation/modelsim
+R7
+vmy_keyboard
+R1
+!i10b 1
+!s100 =0go^lzA;cNXLD8LJz<M=1
+IA>iOf_Va1GjI:8>lng`a[2
+R2
+R0
+w1650468637
+8D:/My_design/lab7/my_keyboard.v
+FD:/My_design/lab7/my_keyboard.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/my_keyboard.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/my_keyboard.v|
+!i113 1
+R5
+R6
+R7
+vps2_keyboard
+R1
+!i10b 1
+!s100 HPA9iVTA<b8eVJSaBJnS?1
+I>I6>T90OJg3e[IbKh[Wn90
+R2
+R0
+w1650459903
+8D:/My_design/lab7/ps2_keyboard.v
+FD:/My_design/lab7/ps2_keyboard.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/ps2_keyboard.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/ps2_keyboard.v|
+!i113 1
+R5
+R6
+R7
+vps2_keyboard_model
+R1
+!i10b 1
+!s100 744eiCZI6ZD?j:o`gz[Z41
+IXKO7C]2F9SJH6ndQnZ@ZB3
+R2
+R0
+w1650461903
+8D:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt
+FD:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7/simulation/modelsim|D:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt|
+!i113 1
+R5
+R8
+R7
+vseg_7
+R1
+!i10b 1
+!s100 nggcYDMhZgP]9M7[:]z[k0
+I1[7k8>Zcka[`?3?Nj=H[W1
+R2
+R0
+w1650459415
+8D:/My_design/lab7/seg_7.v
+FD:/My_design/lab7/seg_7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab7/seg_7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab7|D:/My_design/lab7/seg_7.v|
+!i113 1
+R5
+R6
+R7

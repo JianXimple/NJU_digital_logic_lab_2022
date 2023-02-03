@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/My_design/lab4/1/simulation/modelsim
+vcounter
+Z1 !s110 1648646746
+!i10b 1
+!s100 @2?^fgYS8YEF`SghRICKa0
+IM_AQ^7NLVb0UjRV;5[D_A0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1648646334
+8D:/My_design/lab4/1/counter.v
+FD:/My_design/lab4/1/counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1648646746.000000
+!s107 D:/My_design/lab4/1/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab4/1|D:/My_design/lab4/1/counter.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/My_design/lab4/1
+Z7 tCvgOpt 0
+vlab4_1
+R1
+!i10b 1
+!s100 Jn=j7=RImclAR>LolU?o<2
+IXb_3dmB7:9;:lOXGfQ5C43
+R2
+R0
+w1648631567
+8D:/My_design/lab4/1/lab4_1.v
+FD:/My_design/lab4/1/lab4_1.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab4/1/lab4_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab4/1|D:/My_design/lab4/1/lab4_1.v|
+!i113 1
+R5
+R6
+R7
+vlab4_1_vlg_tst
+R1
+!i10b 1
+!s100 [l2A?0KS1IZdCVNJoQh4[0
+Ij;6cE@Id[Rl^[dkg?Oi^12
+R2
+R0
+w1648646730
+8D:/My_design/lab4/1/simulation/modelsim/lab4_1.vt
+FD:/My_design/lab4/1/simulation/modelsim/lab4_1.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/My_design/lab4/1/simulation/modelsim/lab4_1.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab4/1/simulation/modelsim|D:/My_design/lab4/1/simulation/modelsim/lab4_1.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/My_design/lab4/1/simulation/modelsim
+R7

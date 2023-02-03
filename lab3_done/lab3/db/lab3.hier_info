@@ -1,0 +1,48 @@
+|lab3
+SW[0] => SW[0].IN1
+SW[1] => SW[1].IN1
+SW[2] => SW[2].IN1
+SW[3] => SW[3].IN1
+SW[4] => SW[4].IN1
+SW[5] => SW[5].IN1
+SW[6] => SW[6].IN1
+SW[7] => SW[7].IN1
+SW[8] => SW[8].IN1
+SW[9] => ~NO_FANOUT~
+LEDR[0] << ALU_1:a1.port3
+LEDR[1] << ALU_1:a1.port3
+LEDR[2] << ALU_1:a1.port3
+LEDR[3] << ALU_1:a1.port3
+LEDR[4] << ALU_1:a1.port3
+LEDR[5] << ALU_1:a1.port3
+LEDR[6] << ALU_1:a1.port3
+LEDR[7] << <GND>
+LEDR[8] << <GND>
+LEDR[9] << <GND>
+
+
+|lab3|ALU_1:a1
+A[0] => _.DATAD
+A[1] => _.DATAD
+A[2] => _.DATAD
+A[3] => S.IN1
+A[3] => S.IN0
+A[3] => _.DATAD
+B[0] => t_no_Cin[0].IN0
+B[1] => t_no_Cin[1].IN0
+B[2] => t_no_Cin[2].IN0
+B[3] => t_no_Cin[3].IN0
+Cin => t_no_Cin[0].IN1
+Cin => t_no_Cin[1].IN1
+Cin => t_no_Cin[2].IN1
+Cin => t_no_Cin[3].IN1
+Cin => _.DATAB
+S[0] <= _.SUM_OUT
+S[1] <= _.SUM_OUT
+S[2] <= _.SUM_OUT
+S[3] <= _.SUM_OUT
+S[4] <= _.SUM_OUT
+S[5] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

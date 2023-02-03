@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/My_design/lab2_done/lab2/simulation/modelsim
+vencoder83
+Z1 !s110 1648026573
+!i10b 1
+!s100 F5O2Dnk=G;>_IU2YBmkPB2
+IDZ8K`keI:]Bb1UScIMO6<1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1646737735
+8D:/My_design/lab2_done/lab2/encoder83.v
+FD:/My_design/lab2_done/lab2/encoder83.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1648026572.000000
+!s107 D:/My_design/lab2_done/lab2/encoder83.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab2_done/lab2|D:/My_design/lab2_done/lab2/encoder83.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+D:/My_design/lab2_done/lab2
+Z6 tCvgOpt 0
+vlab2
+R1
+!i10b 1
+!s100 QTm:9EE8XRTieIX<DG1m21
+I2Rb>Of]bUVHBmPGEE29^j0
+R2
+R0
+w1646737788
+8D:/My_design/lab2_done/lab2/lab2.v
+FD:/My_design/lab2_done/lab2/lab2.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z7 !s108 1648026573.000000
+!s107 D:/My_design/lab2_done/lab2/lab2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab2_done/lab2|D:/My_design/lab2_done/lab2/lab2.v|
+!i113 1
+R4
+R5
+R6
+vlab2_vlg_tst
+R1
+!i10b 1
+!s100 n1_[7c_Y?Gg?n[McO9aKm3
+IoNJWknjTNGIhN[>S_Fa4i0
+R2
+R0
+w1647443460
+8D:/My_design/lab2_done/lab2/simulation/modelsim/lab2.vt
+FD:/My_design/lab2_done/lab2/simulation/modelsim/lab2.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/My_design/lab2_done/lab2/simulation/modelsim/lab2.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/My_design/lab2_done/lab2/simulation/modelsim|D:/My_design/lab2_done/lab2/simulation/modelsim/lab2.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+D:/My_design/lab2_done/lab2/simulation/modelsim
+R6

@@ -1,0 +1,119 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do lab7_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/seg_7.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/seg_7.v 
+# -- Compiling module seg_7
+# 
+# Top level modules:
+# 	seg_7
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/all_lights_out.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/all_lights_out.v 
+# -- Compiling module all_lights_out
+# 
+# Top level modules:
+# 	all_lights_out
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/ps2_keyboard.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/ps2_keyboard.v 
+# -- Compiling module ps2_keyboard
+# 
+# Top level modules:
+# 	ps2_keyboard
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/my_keyboard.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/my_keyboard.v 
+# -- Compiling module my_keyboard
+# 
+# Top level modules:
+# 	my_keyboard
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/lab7.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/lab7.v 
+# -- Compiling module lab7
+# 
+# Top level modules:
+# 	lab7
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7 {D:/My_design/lab7/key_to_ascii.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7" D:/My_design/lab7/key_to_ascii.v 
+# -- Compiling module key_to_ascii
+# 
+# Top level modules:
+# 	key_to_ascii
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7/simulation/modelsim {D:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7/simulation/modelsim" D:/My_design/lab7/simulation/modelsim/ps2_keyboard_model.vt 
+# -- Compiling module ps2_keyboard_model
+# 
+# Top level modules:
+# 	ps2_keyboard_model
+# End time: 23:34:27 on Apr 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/My_design/lab7/simulation/modelsim {D:/My_design/lab7/simulation/modelsim/lab7.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:34:27 on Apr 20,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/My_design/lab7/simulation/modelsim" D:/My_design/lab7/simulation/modelsim/lab7.vt 
+# -- Compiling module lab7_vlg_tst
+# 
+# Top level modules:
+# 	lab7_vlg_tst
+# End time: 23:34:28 on Apr 20,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  lab7_vlg_tst
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" lab7_vlg_tst 
+# Start time: 23:34:28 on Apr 20,2022
+# Loading work.lab7_vlg_tst
+# Loading work.ps2_keyboard_model
+# Loading work.lab7
+# Loading work.my_keyboard
+# Loading work.ps2_keyboard
+# Loading work.all_lights_out
+# Loading work.key_to_ascii
+# Loading work.seg_7
+# ** Warning: (vsim-3015) D:/My_design/lab7/lab7.v(41): [PCDPC] - Port size (1) does not match connection size (4) for port 'clrn'. The port definition is at: D:/My_design/lab7/my_keyboard.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /lab7_vlg_tst/i1/mk1 File: D:/My_design/lab7/my_keyboard.v
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : D:/My_design/lab7/simulation/modelsim/lab7.vt(118)
+#    Time: 880160 ps  Iteration: 0  Instance: /lab7_vlg_tst
+# Break in Module lab7_vlg_tst at D:/My_design/lab7/simulation/modelsim/lab7.vt line 118
+# End time: 23:34:47 on Apr 20,2022, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 1

@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+D:/My_design/lab6 {D:/My_design/lab6/random_num_generator.v}
+vlog -vlog01compat -work work +incdir+D:/My_design/lab6 {D:/My_design/lab6/lab6.v}
+
